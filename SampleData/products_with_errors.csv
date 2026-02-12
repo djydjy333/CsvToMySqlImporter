@@ -1,0 +1,9 @@
+product_code,product_name,category,price,quantity,manufacture_date,is_active
+PROD101,正常产品1,电子产品,999.00,50,2024-01-01,1
+PROD102,价格格式错误,电子产品,INVALID_PRICE,30,2024-02-01,1
+PROD103,正常产品2,电脑配件,299.00,100,2024-03-01,yes
+PROD104,数量格式错误,电子产品,599.00,ABC,2024-01-15,0
+PROD105,日期格式错误,电子产品,799.00,200,invalid-date,1
+PROD106,正常产品3,电子产品,1299.00,80,,1
+PROD107,布尔值测试,电脑配件,199.00,150,2024-02-20,Y
+PROD108,空日期正常,电子产品,399.00,300,NULL,true

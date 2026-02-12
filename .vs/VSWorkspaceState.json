@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\bin\\Release\\net8.0",
+    "\\Models",
+    "\\SampleData",
+    "\\Scripts",
+    "\\Services"
+  ],
+  "SelectedNode": "\\SampleData\\products_sample.csv",
+  "PreviewInSolutionExplorer": false
+}
